@@ -1,6 +1,8 @@
 #CREDIT EDA ASSIGNMENT
 CREDIT RISK ANALYSIS
-DATASETS can be downloaded from given link:https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
+DATASETS can be downloaded from given link:
+https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
 
 PROBLEM STATEMENT:
 Business Understanding
